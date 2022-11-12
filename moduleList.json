@@ -1,0 +1,361 @@
+{
+  "activeModules": [
+    {
+      "id": "ActiveAuras",
+      "title": "Active-Auras",
+      "version": ""
+    },
+    {
+      "id": "always-hp",
+      "title": "Always HP",
+      "version": ""
+    },
+    {
+      "id": "autoanimations",
+      "title": "Automated Animations",
+      "version": ""
+    },
+    {
+      "id": "background-volume",
+      "title": "Background Volume",
+      "version": ""
+    },
+    {
+      "id": "betterroofs",
+      "title": "Better Roofs",
+      "version": ""
+    },
+    {
+      "id": "better-text-drawings",
+      "title": "Better Text Drawings",
+      "version": ""
+    },
+    {
+      "id": "chat-timestamp",
+      "title": "Chat Message Timestamp",
+      "version": ""
+    },
+    {
+      "id": "chat-portrait",
+      "title": "Chat Portrait",
+      "version": ""
+    },
+    {
+      "id": "combat-enhancements",
+      "title": "Combat Enhancements",
+      "version": ""
+    },
+    {
+      "id": "combat-utility-belt",
+      "title": "Combat Utility Belt",
+      "version": ""
+    },
+    {
+      "id": "custom-fonts",
+      "title": "Custom Fonts",
+      "version": ""
+    },
+    {
+      "id": "custom-pause",
+      "title": "Custom Pause",
+      "version": ""
+    },
+    {
+      "id": "cycle-token-stack",
+      "title": "Cycle Token Stack",
+      "version": ""
+    },
+    {
+      "id": "dice-so-nice",
+      "title": "Dice So Nice!",
+      "version": ""
+    },
+    {
+      "id": "dice-calculator",
+      "title": "Dice Tray",
+      "version": ""
+    },
+    {
+      "id": "elevation-drag-ruler",
+      "title": "DnD5e Drag Ruler Integration",
+      "version": ""
+    },
+    {
+      "id": "drag-ruler",
+      "title": "Drag Ruler",
+      "version": ""
+    },
+    {
+      "id": "dramatic-rolls",
+      "title": "Dramatic Rolls",
+      "version": ""
+    },
+    {
+      "id": "dae",
+      "title": "Dynamic effects using Active Effects",
+      "version": ""
+    },
+    {
+      "id": "forien-copy-environment",
+      "title": "Forien's Copy Environment",
+      "version": ""
+    },
+    {
+      "id": "fxmaster",
+      "title": "FXMaster",
+      "version": ""
+    },
+    {
+      "id": "healthEstimate",
+      "title": "Health Estimate",
+      "version": ""
+    },
+    {
+      "id": "image-hover",
+      "title": "Image Hover",
+      "version": ""
+    },
+    {
+      "id": "animated-maps",
+      "title": "Jack Kerouac's Animated Maps",
+      "version": ""
+    },
+    {
+      "id": "jb2a_patreon",
+      "title": "JB2A - Patreon Complete Collection",
+      "version": ""
+    },
+    {
+      "id": "levels",
+      "title": "Levels",
+      "version": ""
+    },
+    {
+      "id": "lib-wrapper",
+      "title": "libWrapper",
+      "version": "1"
+    },
+    {
+      "id": "LockView",
+      "title": "Lock View",
+      "version": ""
+    },
+    {
+      "id": "lordudice",
+      "title": "Lordu's Custom Dice for Dice So Nice",
+      "version": ""
+    },
+    {
+      "id": "mels-masterworks",
+      "title": "Melvin's Mechanical Masterworks",
+      "version": ""
+    },
+    {
+      "id": "midi-qol",
+      "title": "Midi QOL",
+      "version": ""
+    },
+    {
+      "id": "monks-active-tiles",
+      "title": "Monk's Active Tile Triggers",
+      "version": ""
+    },
+    {
+      "id": "monks-little-details",
+      "title": "Monk's Little Details",
+      "version": ""
+    },
+    {
+      "id": "monks-scene-navigation",
+      "title": "Monk's Scene Navigation",
+      "version": ""
+    },
+    {
+      "id": "monks-sound-enhancements",
+      "title": "Monk's Sound Enhancements",
+      "version": ""
+    },
+    {
+      "id": "moulinette-core",
+      "title": "Moulinette Core",
+      "version": ""
+    },
+    {
+      "id": "moulinette-tiles",
+      "title": "Moulinette Tiles (module)",
+      "version": ""
+    },
+    {
+      "id": "nice-more-dice",
+      "title": "Nice more Dice",
+      "version": ""
+    },
+    {
+      "id": "perfect-vision",
+      "title": "Perfect Vision",
+      "version": ""
+    },
+    {
+      "id": "permission_viewer",
+      "title": "Permission Viewer",
+      "version": ""
+    },
+    {
+      "id": "pin-cushion",
+      "title": "Pin Cushion",
+      "version": ""
+    },
+    {
+      "id": "pings",
+      "title": "Pings",
+      "version": ""
+    },
+    {
+      "id": "plutonium",
+      "title": "SRD: Enhanced",
+      "version": ""
+    },
+    {
+      "id": "polyglot",
+      "title": "Polyglot",
+      "version": ""
+    },
+    {
+      "id": "scene-transitions",
+      "title": "Scene Transitions",
+      "version": ""
+    },
+    {
+      "id": "sequencer",
+      "title": "Sequencer",
+      "version": ""
+    },
+    {
+      "id": "settings-extender",
+      "title": "Settings Extender",
+      "version": ""
+    },
+    {
+      "id": "simplefog",
+      "title": "Simplefog - Manual Fog of War",
+      "version": ""
+    },
+    {
+      "id": "socketlib",
+      "title": "socketlib",
+      "version": ""
+    },
+    {
+      "id": "soundfxlibrary",
+      "title": "SoundFx Library",
+      "version": ""
+    },
+    {
+      "id": "tabletop-rpg-music",
+      "title": "Tabletop RPG Music",
+      "version": ""
+    },
+    {
+      "id": "tidy5e-sheet",
+      "title": "Tidy5e Sheet",
+      "version": ""
+    },
+    {
+      "id": "tidy-ui_game-settings",
+      "title": "Tidy UI - Game Settings",
+      "version": ""
+    },
+    {
+      "id": "token-action-hud",
+      "title": "Token Action HUD",
+      "version": ""
+    },
+    {
+      "id": "token-hud-wildcard",
+      "title": "Token HUD Wildcard",
+      "version": ""
+    },
+    {
+      "id": "tokenmagic",
+      "title": "Token Magic FX",
+      "version": ""
+    },
+    {
+      "id": "tors-tomb-of-the-nine-gods",
+      "title": "Tor's Tomb of the Nine Gods",
+      "version": ""
+    },
+    {
+      "id": "wall-height",
+      "title": "Wall Height",
+      "version": ""
+    },
+    {
+      "id": "world-explorer",
+      "title": "World Explorer",
+      "version": ""
+    }
+  ],
+  "inactiveModules": [
+    {
+      "id": "about-time",
+      "title": "About Time",
+      "version": ""
+    },
+    {
+      "id": "betterrolls5e",
+      "title": "Better Rolls for 5e",
+      "version": ""
+    },
+    {
+      "id": "calendar-weather",
+      "title": "Calendar/Weather",
+      "version": ""
+    },
+    {
+      "id": "hologrounds-free-module",
+      "title": "HoloGrounds Free Maps",
+      "version": ""
+    },
+    {
+      "id": "JB2A_DnD5e",
+      "title": "JB2A - Jules and Ben's Animated Assets - Free Content",
+      "version": ""
+    },
+    {
+      "id": "multilevel-tokens",
+      "title": "Multilevel Tokens",
+      "version": ""
+    },
+    {
+      "id": "poi-sheet",
+      "title": "Point of Interest Sheet",
+      "version": ""
+    },
+    {
+      "id": "foundryvtt-simple-calendar",
+      "title": "Simple Calendar",
+      "version": ""
+    },
+    {
+      "id": "token-attacher",
+      "title": "Token Attacher",
+      "version": ""
+    },
+    {
+      "id": "uchideshi34-lmop-maps",
+      "title": "uchideshi34's Lost Mine of Phandelver Maps",
+      "version": ""
+    },
+    {
+      "id": "vehicles-and-mechanisms",
+      "title": "Vehicles and Mechanisms",
+      "version": ""
+    },
+    {
+      "id": "weather-control",
+      "title": "Weather Control",
+      "version": ""
+    }
+  ]
+}
